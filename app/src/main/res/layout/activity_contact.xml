@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Contact">
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/ContactText"
+        android:text="যোগাযোগ"
+        android:textColor="#ce3232"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        style="@style/ContactText"
+        android:layout_below="@+id/textView2"
+        android:text="আজকের কৃষি ঢাকা অফিসঃ"
+        android:textStyle="bold" />
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/textView5"
+        style="@style/ContactText"
+        android:layout_below="@+id/textView4"
+        android:text="৩৭২/১, পূর্ব রামপুরা, ডি আই টি রোড, ২য় তলা, রামপুরা, ঢাকা-১২১৯." />
+
+    <TextView
+        android:id="@+id/textView6"
+        style="@style/ContactText"
+        android:layout_below="@+id/textView5"
+        android:text="ফোন- ০১৭৭১৬২৫২৫২, ০১৯৭১৬২৫২৫২" />
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/textView7"
+        style="@style/ContactText"
+        android:layout_below="@+id/textView6"
+        android:text="ই-মেইল- admin@ajkerkrishi.com অথবা ajkerkrishi@gmail.com" />
+      <!--
+    <TextView
+        android:id="@+id/textView8"
+        style="@style/ContactText"
+        android:layout_below="@+id/textView7"
+        android:layout_marginTop="20dp"
+        android:text="আজকের কৃষি থাইল্যান্ড অফিসঃ"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/textView9"
+        style="@style/ContactText"
+        android:layout_below="@+id/textView7"
+        android:text="325/82, Moo 10, Soi 13/4, Pattaya Beach, Chonburi, Thailand." />
+       -->
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView7" />
+
+
+
+    <!--
+
+    <TextView
+        android:id="@+id/textView11"
+        style="@style/ContactText"
+        android:layout_below="@+id/textView10"
+        android:text="E-mail- thaioffice@ajkerkrishi.com" />
+        -->
+
+
+</RelativeLayout>

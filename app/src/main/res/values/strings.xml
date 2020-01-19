@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ই-কৃষি সেবা</string>
+
+
+    <string name="btn_about">আজকের কৃষি</string>
+    <string name="about">আমাদের সর্ম্পকে</string>
+
+    <string name="btn_chadkrishi">ছাদ কৃষি</string>
+    <string name="btn_nirapodkhaddo">নিরাপদ খাদ্য</string>
+    <string name="btn_chasabad">চাষাবাদ পদ্ধতি</string>
+
+    <string name="btn_contact">যোগাযোগ</string>
+    <string name="btn_krishi_projukti">কৃষি প্রযুক্তি</string>
+    <string name="btn_krishi_totho">কৃষি তথ্য</string>
+    <string name="btn_motsho">মৎস্যসম্পদ</string>
+    <string name="btn_nogor_krishi">নগর কৃষি</string>
+    <string name="btn_pokamakor">পোকামাকড় ও রোগবালাই</string>
+    <string name="btn_poramorsho">পরামর্শ নিন</string>
+    <string name="btn_prani">প্রানিসম্পদ</string>
+    <string name="btn_shodosho">সদস্য হউন</string>
+    <string name="btn_uddokta">কৃষি উদ্যোক্তা</string>
+    <string name="btn_krishiponno">কৃষি পণ্য কিনুন</string>
+    <string name="loading">loading</string>
+    <string name="video">ভিডিও চিত্র</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-2357988955955365/9277930626</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-2357988955955365/7758008977</string>
+
+
+</resources>

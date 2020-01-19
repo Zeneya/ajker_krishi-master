@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreen">
+
+
+    <ImageView
+        android:id="@+id/logo_id"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/ekrishi" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/tx"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo_id"
+        android:layout_centerHorizontal="true"
+        android:text="ই-কৃষি সেবা"
+        android:textColor="#73bd1f"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tx"
+        android:layout_centerHorizontal="true"
+        android:text="ই-কৃষি প্রযুক্তি এবং চাষাবাদ পদ্ধতি"
+        android:textColor="#ff9a02"
+        android:textSize="25dp" />
+
+</RelativeLayout>

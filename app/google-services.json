@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "703349616507",
+    "firebase_url": "https://e-krishi-sheba.firebaseio.com",
+    "project_id": "e-krishi-sheba",
+    "storage_bucket": "e-krishi-sheba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703349616507:android:b8ee76f984f6704f",
+        "android_client_info": {
+          "package_name": "com.decoderssquad.ekrishisheba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703349616507-qktlvijpvtt24m5e742b4thvgm1mgmal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRrebqmnVXpBgNzE3WAtp5cHF2a9NVGp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
